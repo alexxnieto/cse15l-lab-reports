@@ -25,6 +25,8 @@ Next to the % sign type the following - ssh cs15lsp23zz@ieng6.ucsd.edu - where z
 
 ![Image](image6.png)
 
+!!!! I WAS HAVING TROUBLE LOGGING IN AT THE TIME SO THIS IS THE SCREENSHOT I CAN PROVIDE RIGHT NOW !!!!!
+
 Considering this is the first time you will be logging in you may get a message similar to:
 
 The authenticity of host 'ieng6.ucsd.edu (128.54.70.227)' can't be established.
