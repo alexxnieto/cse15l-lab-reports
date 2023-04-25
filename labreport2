@@ -9,8 +9,6 @@ The relevant arguments would be the  "/add-message?s=Hello" because the handlere
 No values got changed as the code doesn't affect the type of the fields in the class. 
 
 
-
-
 ![Image](img12.png)
 
 
