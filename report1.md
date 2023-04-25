@@ -3,7 +3,7 @@ Hello! Here's a guide on how to: one) download VSCode; two) remotely connect; th
 Step 1: Downloading VSCode
 
 Follow this link below:
-https://code.visualstudio.com
+[VSC] (https://code.visualstudio.com)
 
 ![Image](image1.png)
 
@@ -21,11 +21,14 @@ Open a java terminal in VSCode which can be done by opening a new java file, sel
 ![Image](image4.png)
 ![Image](image5.png)
 
-Next to the % sign type the following - ssh cs15lsp23zz@ieng6.ucsd.edu - where zz is the unique characters assigned to your CSE15L account.
+You can find your CSE15L specific account here: [CSE15L Account] (https://sdacs.ucsd.edu/~icc/index.php)
 
-![Image](image6.png)
+To reset account follow this link: [Resetting Account Password/Account] ([TUTORIAL] How to Reset your CSE 15L Password)
 
-!!!! I WAS HAVING TROUBLE LOGGING IN AT THE TIME SO THIS IS THE SCREENSHOT I CAN PROVIDE RIGHT NOW !!!!!
+Next to the % sign type the following `ssh cs15lsp23zz@ieng6.ucsd.edu` - where zz is the unique characters assigned to your CSE15L account.
+
+![Image](img13.png)
+
 
 Considering this is the first time you will be logging in you may get a message similar to:
 
@@ -35,7 +38,7 @@ Are you sure you want to continue connecting (yes/no/[fingerprint])?
 
 You should say YES to tha above message!
 
-You will then be prompted to enter your password for the account cs15lsp23zz@ieng6.ucsd.edu! Enter you password of course!
+You will then be prompted to enter your password for the account `cs15lsp23zz@ieng6.ucsd.edu`! Enter you password of course!
 
 If not prompted for the password again, you should be now remotely connected as see something similar to:
 
@@ -57,9 +60,17 @@ Wed Apr 05, 2023  5:52pm - Prepping cs15lsp23
 
 Step 3: Trying Commands
 
-To try commands you will see something simlar to:
+To try commands 
 
-![Image](image7.png)
+`cd ~`
+`cd`
+`ls -lat`
+`ls -a`
+`ls <directory> where <directory> is /home/linux/ieng6/cs15lsp23/cs15lsp23abc, where the abc is one of the other group members’ username`
+`cp /home/linux/ieng6/cs15lsp23/public/hello.txt ~/`
+`cat /home/linux/ieng6/cs15lsp23/public/hello.txt`
+
+![Image](image14.png)
 
 After the $ sign, type a command and press enter! You will either see something like what's pictured above or it will ask for another command because the previous one was invalid!
 
