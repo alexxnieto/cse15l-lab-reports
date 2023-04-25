@@ -31,4 +31,4 @@ No values got changed as the code doesn't affect the type of the fields in the c
 Something I learned this week in lab was how to use J-Unit tests. 
 I learned how to format a J-Unit test and how to write tests to make sure I can debug my code properly. 
 This is extremely helpful because it shows a different way to debug code.  
-I also learned the difference between these j-unit tests than the tests we wrote in cse 8b.
+I also learned the difference between these j-unit tests than the tests we wrote in cse 8b class.
