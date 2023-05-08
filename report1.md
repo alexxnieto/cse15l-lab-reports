@@ -64,11 +64,25 @@ To try commands
 
 `cd ~`
 `cd`
+
+cd <path> "change directory" is used to switch the current working directory to the given path
+
 `ls -lat`
 `ls -a`
+ 
+
+ 
 `ls <directory> where <directory> is /home/linux/ieng6/cs15lsp23/cs15lsp23abc, where the abc is one of the other group members’ username`
+ 
+ ls <path> "List" used to list files and folders of the given path
+ 
 `cp /home/linux/ieng6/cs15lsp23/public/hello.txt ~/`
+ 
+ cp <path to file> is used to copy the contnets of the file or directory specified
+ 
 `cat /home/linux/ieng6/cs15lsp23/public/hello.txt`
+ 
+ cat <path1> [optional: <path2>] prints the contnets of one or more files given by path
 
 ![Image](img14.png)
 
