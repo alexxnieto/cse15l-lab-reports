@@ -3,7 +3,7 @@
 ![Image](img29.png)
 
 ![Image](img27.png)
-![Image](img28.png
+![Image](img28.png)
 
 The handlerequest method is called as well as the main method under the main class StringServer.\
 
