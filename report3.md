@@ -8,7 +8,7 @@ In the command line, we combine `grep` with `-i` alongside a string pattern in q
 
 The format for this command is `grep -i [string pattern to search] [text file name].txt`.
 
-The `-i` option combined with 'grep' allows us to conduct a case-insensitive search for the string inputted, making grep ignore the case of the letter in the string pattern
+The `-i` option combined with `grep` allows us to conduct a case-insensitive search for the string inputted, making grep ignore the case of the letter in the string pattern
 The `-i` option also lets you find the string imbedded in another word, i.e. "no" in "nonsense". 
 
 Source: ChatGPT.
