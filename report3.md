@@ -55,3 +55,8 @@ The format of this command is `grep -c [string pattern to search] [name of text 
 The `-c` option combined with `grep` allows us to print the count/amount of lines in the text file argued that match/contain the string pattern, instead of printing all the lines. 
 
 Source: ChatGPT.
+
+
+ChatGPT Source: 
+
+![Image](img50.png)
