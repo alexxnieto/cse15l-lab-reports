@@ -59,4 +59,7 @@ Source: ChatGPT.
 
 ChatGPT Source: 
 
+The following is the input and the output. I changed the output by basically applying it and showing how its actually it is used. Mostly used to find the commands and learn what they do. 
+
+
 ![Image](img50.png)
