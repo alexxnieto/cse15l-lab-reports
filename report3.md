@@ -62,7 +62,7 @@ Source: ChatGPT.
 
 ChatGPT Source: 
 
-The following is the input and the output of Chat GPT. I changed the output by basically applying it and showing how its actually it is used. Mostly used to find the commands and learn what they do. 
+The following is the input and the output of Chat GPT. I changed the output by basically applying it and showing how actually it is used. Mostly used CHAT GPT to find the commands and learn what they do. I clarified exactly what they did and what are the parts of the commands in my descriptions.  
 
 
 ![Image](img50.png)
