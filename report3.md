@@ -2,6 +2,7 @@ I will be choosing the grep command and researching unique ways to do some inter
 
 1. The  `grep -i` option
 
+![Image](img19.png)
 ![Image](img20.png)
 ![Image](img21.png)
 
