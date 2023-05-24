@@ -21,7 +21,7 @@ Source: ChatGPT.
 ![Image](img22.png)
 ![Image](img23.png)
 
-***More information under but couldn't fit in image***
+***More information under but couldn't fit in the image***
 
 In the command line, we combine 'grep' with `-r` alongside a string pattern in quotes such as `"civilians"` and lastly the name of a directory, such as `technical`.
 
@@ -37,7 +37,7 @@ Source: ChatGPT.
 ![Image](img24.png)
 ![Image](img25.png)
 
-***More information under but couldn't fit in iamge***
+***More information under but couldn't fit in the image***
 
 In the In the command line, we combine `grep` with `-v` alongside a string pattern in quotes such as `"the"` and lastly the text file we want grep to look in, here `chapter-1.txt`.
 
