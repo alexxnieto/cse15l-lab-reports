@@ -23,7 +23,7 @@ Source: ChatGPT.
 
 ***More information under but couldn't fit in the image***
 
-In the command line, we combine 'grep' with `-r` alongside a string pattern in quotes such as `"civilians"` and lastly the name of a directory, such as `technical`.
+In the command line, we combine `grep` with `-r` alongside a string pattern in quotes such as `"civilians"` and lastly the name of a directory, such as `technical`.
 
 The format of this command is `grep -r [string pattern to search] [name of directory]`.
 
