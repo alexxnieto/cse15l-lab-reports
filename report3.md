@@ -39,7 +39,7 @@ Source: ChatGPT.
 
 ***More information under but couldn't fit in the image***
 
-In the In the command line, we combine `grep` with `-v` alongside a string pattern in quotes such as `"the"` and lastly the text file we want grep to look in, here `chapter-1.txt`.
+In the command line, we combine `grep` with `-v` alongside a string pattern in quotes such as `"the"` and lastly the text file we want grep to look in, here `chapter-1.txt`.
 
 The format of this command is `grep -v [string pattern to search] [name of text file]`.
 
@@ -62,7 +62,7 @@ Source: ChatGPT.
 
 ChatGPT Source: 
 
-The following is the input and the output. I changed the output by basically applying it and showing how its actually it is used. Mostly used to find the commands and learn what they do. 
+The following is the input and the output of Chat GPT. I changed the output by basically applying it and showing how its actually it is used. Mostly used to find the commands and learn what they do. 
 
 
 ![Image](img50.png)
