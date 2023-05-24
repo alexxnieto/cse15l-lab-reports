@@ -6,7 +6,7 @@ I will be choosing the grep command and researching unique ways to do some inter
 ![Image](img21.png)
 
 
-In the command line, we combine `grep` with `-i` alongside a string pattern in quotes such as `"evacuation"` and lastly the text file we want grep to look in, here `chapter-1.txt`.
+In the command line, we combine `grep` with `-i` alongside a string pattern in quotes such as `"EVACUATION"` and lastly the text file we want grep to look in, here `chapter-1.txt`.
 
 The format for this command is `grep -i [string pattern to search] [text file name].txt`.
 
@@ -20,7 +20,7 @@ Source: ChatGPT.
 ![Image](img22.png)
 ![Image](img23.png)
 
-***More information under but couldn't fit in iamge***
+***More information under but couldn't fit in image***
 
 In the command line, we combine 'grep' with `-r` alongside a string pattern in quotes such as `"civilians"` and lastly the name of a directory, such as `technical`.
 
@@ -50,7 +50,7 @@ Source: ChatGPT.
 
 ![Image](img26.png)
 
-In the In the command line, we combine `grep` with `-c` alongside a string pattern in quotes such as `"the"` and lastly the text file we want grep to look in, here `chapter-1.txt`.
+In the command line, we combine `grep` with `-c` alongside a string pattern in quotes such as `"the"` and lastly the text file we want grep to look in, here `chapter-1.txt`.
 
 The format of this command is `grep -c [string pattern to search] [name of text file]`.
 
