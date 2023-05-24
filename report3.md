@@ -2,7 +2,9 @@ I will be choosing the grep command and researching unique ways to do some inter
 
 1. The  `grep -i` option
 
+![Image](img20.png)
 ![Image](img21.png)
+
 
 In the command line, we combine `grep` with `-i` alongside a string pattern in quotes such as `"evacuation"` and lastly the text file we want grep to look in, here `chapter-1.txt`.
 
