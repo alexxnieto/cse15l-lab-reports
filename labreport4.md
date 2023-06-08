@@ -48,7 +48,7 @@ With these keys, I was able to run the tests again to make sure that they both p
 
 Step 6: Commit and push the resulting change to your Github account (you can pick any commit message!)
 
-![Image](img105.png)
+![Image](img105.png) 
 
 The keys I pressed in order were: `git`, `< SPACE >`, `commit`, `< SPACE >`, `-m`, `< SHIFT >`, Done, `< SHIFT > l`, `ist`, `< SHIFT > e`, `xamples.java`, `< ENTER >`
 
