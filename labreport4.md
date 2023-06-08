@@ -10,7 +10,7 @@ With these keys and steps I am able to log into my ieng6 account where I can the
 
 Step 2: Clone your fork of the repository from your Github account
 
-![Image](img100.png)
+![Image](img100.png) 
 
 The keys I pressed in order were: `git`, `< SPACE >` , `clone`, `< SPACE > `, `< CTRL V >`, `< ENTER >`.
 
