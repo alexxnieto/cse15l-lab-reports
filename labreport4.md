@@ -30,7 +30,7 @@ With the keys, `cd`,` < SPACE >`, `lab7`, I was able to access the lab7 file and
 
 Step 4: Edit the code file to fix the failing test
 
-![Image](img102.png)
+![Image](img102.png) 
 
 The keys I pressed in order were: `vim`, `< SHIFT > l`, `ist`, `< SHIFT > e`, `xamples.java`, `< ENTER >`, `/index1`, `< ENTER >`, `< n >` x10, `i`, `< RIGHT ARROW > x6`, `< BACKSPACE >`, `2`, `< ESC >`, `:wq`, ` < ENTER >`.
 
