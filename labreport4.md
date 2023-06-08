@@ -26,7 +26,7 @@ The keys I pressed in order were: `cd`, `< SPACE >`, `lab7`, `< ENTER >`, `< up 
 `< ENTER >`.
 
 With the keys, `cd`,` < SPACE >`, `lab7`, I was able to access the lab7 file and also access the `ListExamplesTests` file I needed to run.
-`< up >`, `< up >`, `< up >`, `< ENTER >` was pressed because the `javac -cp .:lib/hamcrest-core-1.3.jar:lib/junit-4.13.2.jar *.java` command was 3 up in the command history, so I used the up arrow to access it. Then, the `java -cp .:lib/hamcrest-core-1.3.jar:lib/junit-4.13.2.jar org.junit.runner.JUnitCore ListExamplesTests` was accessed in the same way by using the up keys and the hitting enter. These keys will then run the tests and see that they failed. 
+`< up >`, `< up >`, `< up >`, `< ENTER >` was pressed because the `javac -cp .:lib/hamcrest-core-1.3.jar:lib/junit-4.13.2.jar *.java` command was 3 up in the command history, so I used the up arrow to access it. Then, `java -cp .:lib/hamcrest-core-1.3.jar:lib/junit-4.13.2.jar org.junit.runner.JUnitCore ListExamplesTests` was accessed in the same way by using the up keys and the hitting enter. These keys will then run the tests and see that they failed. 
 
 Step 4: Edit the code file to fix the failing test
 
