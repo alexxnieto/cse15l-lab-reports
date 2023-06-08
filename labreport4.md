@@ -42,7 +42,7 @@ Step 5: Run the tests, demonstrating that they now succeed
 
 The keys I pressed in order were: `< up >`, `< up >`, ` < up > `, ` < up >`, `< ENTER >`, `< up >`, `< up >`, ` < up >`, `< ENTER >`
 
-With these keys, I was able to run the tests again to make sure that they both passed. Since ` javac -cp .:lib/hamcrest-core-1.3.jar:lib/junit-4.13.2.jar *.java` was 4 up in my terminal command history, I pressed the `< up >` button 4 times and then hit `< ENTER >`. Since 
+With these keys, I was able to run the tests again to make sure that they both passed. Since `javac -cp .:lib/hamcrest-core-1.3.jar:lib/junit-4.13.2.jar *.java` was 4 up in my terminal command history, I pressed the `< up >` button 4 times and then hit `< ENTER >`. Since 
 `java -cp .:lib/hamcrest-core-1.3.jar:lib/junit-4.13.2.jar org.junit.runner.JUnitCore ListExamplesTests` was 3 up in my terminal command history, I hit the `< up >` button 3 times and then hit `< ENTER >`.
 
 Step 6: Commit and push the resulting change to your Github account (you can pick any commit message!)
