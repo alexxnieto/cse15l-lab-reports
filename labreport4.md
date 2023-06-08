@@ -26,7 +26,7 @@ The keys I pressed in order were: `cd`, `< SPACE >`, `lab7`, `< ENTER >`, `< up 
 `< ENTER >`.
 
 With the keys, `cd`,` < SPACE >`, `lab7`, I was able to access the lab7 file and also access the `ListExamplesTests` file I needed to run.
-`< up >`, `< up >`, `< up >`, `< ENTER >` was pressed because the ` javac -cp .:lib/hamcrest-core-1.3.jar:lib/junit-4.13.2.jar *.java` command was 3 up in the search history, so I used the up arrow to access it. Then, the `java -cp .:lib/hamcrest-core-1.3.jar:lib/junit-4.13.2.jar org.junit.runner.JUnitCore ListExamplesTests` was accessed in the same way by using the up keys and the hitting enter. These keys will then run the tests and see that they failed. 
+`< up >`, `< up >`, `< up >`, `< ENTER >` was pressed because the `javac -cp .:lib/hamcrest-core-1.3.jar:lib/junit-4.13.2.jar *.java` command was 3 up in the command history, so I used the up arrow to access it. Then, the `java -cp .:lib/hamcrest-core-1.3.jar:lib/junit-4.13.2.jar org.junit.runner.JUnitCore ListExamplesTests` was accessed in the same way by using the up keys and the hitting enter. These keys will then run the tests and see that they failed. 
 
 Step 4: Edit the code file to fix the failing test
 
@@ -43,7 +43,8 @@ Step 5: Run the tests, demonstrating that they now succeed
 The keys I pressed in order were: `< up >`, `< up >`, ` < up > `, ` < up >`, `< ENTER >`, `< up >`, `< up >`, ` < up >`, `< ENTER >`
 
 With these keys, I was able to run the tests again to make sure that they both passed. Since `javac -cp .:lib/hamcrest-core-1.3.jar:lib/junit-4.13.2.jar *.java` was 4 up in my terminal command history, I pressed the `< up >` button 4 times and then hit `< ENTER >`. Since 
-`java -cp .:lib/hamcrest-core-1.3.jar:lib/junit-4.13.2.jar org.junit.runner.JUnitCore ListExamplesTests` was 3 up in my terminal command history, I hit the `< up >` button 3 times and then hit `< ENTER >`.
+`java -cp .:lib/hamcrest-core-1.3.jar:lib/junit-4.13.2.jar org.junit.runner.JUnitCore ListExamplesTests` was 3 up in my terminal command history, I hit the 
+`< up >` button 3 times and then hit `< ENTER >`.
 
 Step 6: Commit and push the resulting change to your Github account (you can pick any commit message!)
 
